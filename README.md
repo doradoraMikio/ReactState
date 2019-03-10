@@ -1,2 +1,0 @@
-# ReactState
-Created with CodeSandbox
